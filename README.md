@@ -40,7 +40,7 @@ Activate the virtual environment:
   ```
 - On **macOS/Linux**:
   ```bash
-  venv\Scripts\activate
+  source venv\bin\activate
   ```
 
 ### **4. Install Required Dependencies**
